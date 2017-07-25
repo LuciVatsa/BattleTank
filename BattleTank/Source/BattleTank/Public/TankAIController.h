@@ -7,7 +7,7 @@
 #include "TankAIController.generated.h"
 
 
-class ATank;
+
 /**
  * 
  */
