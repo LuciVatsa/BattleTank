@@ -4,6 +4,13 @@
 #include "TankTrack.h"
 
 
+UTankTrack::UTankTrack()
+{
+	PrimaryComponentTick.bCanEverTick = true;
+}
+
+
+
 void UTankTrack::SetThrottle(float Throttle)
 {
 	
